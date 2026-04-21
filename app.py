@@ -11,7 +11,7 @@ except:
     REPORTLAB_AVAILABLE = False
 
 # ================= UI =================
-st.set_page_config(page_title="OS Simulator Pro", layout="wide")
+st.set_page_config(page_title="OS Simulator Project", layout="wide")
 
 st.markdown("""
 <style>
